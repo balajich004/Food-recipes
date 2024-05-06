@@ -1,8 +1,17 @@
-# Food-recipes
-This is a HTML project used to showcase my HTML skills and level of understanding the concepts.
 
-Link to clone
+# Project Title
 
-```https://github.com/balajich004/Food-recipes```
+Food Recipes 
 
-After cloning the project just navigate to the root folder and launch the project and explore it.
+## About
+
+This is a project HTML project built to understand and showcase my HTML skills. This is a simplae food recipe project where various recipes of food can be navigated from one common file.  
+## Authors
+
+- [@balajich004](https://www.github.com/balajich004)
+
+
+## 🔗 Links to Social
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-chennupati-2a7629286/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/balajich004)
+
