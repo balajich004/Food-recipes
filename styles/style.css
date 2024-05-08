@@ -1,0 +1,11 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+#linked-in{
+    color:rgb(14, 101, 215);
+    text-decoration: none;
+}
+h1{
+    text-decoration: underline;
+}
