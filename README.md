@@ -5,7 +5,7 @@ Food Recipes
 
 ## About
 
-This is a HTML project built to understand and showcase my HTML skills. This is a simplae food recipe project where various recipes of food can be navigated from one common file.  
+This is a HTML project built to understand and showcase my HTML skills. This is a simple food recipe project where various recipes of food can be navigated from one common file.  
 ## Authors
 
 - [@balajich004](https://www.github.com/balajich004)
