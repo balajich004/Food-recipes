@@ -1,7 +1,5 @@
 
-# Project Title
-
-Food Recipes 
+# Food Recipes
 
 ## About
 
